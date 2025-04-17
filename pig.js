@@ -1,1 +1,11 @@
 'use strict'
+const showimage=document.querySelector('.dice');
+const player0=document.querySelector('.player--0');
+const player1=document.querySelector('.player--1');
+const score0=document.getElementById('score--0');
+const score1=document.getElementById('score--1');
+const current0=document.getElementById('current--0');
+const current1=document.getElementById('current--1');
+const btnroll=document.querySelector('.btn--roll');
+const btnnew=document.querySelector('.btn--new');
+const btnhold=document.querySelector('.btn--hold');
