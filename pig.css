@@ -30,5 +30,5 @@ main {
   display: flex;
 }
 .player{
-  
+  flex: 50;
 }
