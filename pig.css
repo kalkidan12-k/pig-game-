@@ -31,4 +31,5 @@ main {
 }
 .player{
   flex: 50;
+  padding: 9rem;
 }
