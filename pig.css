@@ -34,4 +34,5 @@ main {
   padding: 9rem;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
