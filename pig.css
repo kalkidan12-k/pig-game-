@@ -42,4 +42,5 @@ main {
  font-size: 4rem;
  text-transform: uppercase;
  letter-spacing: 1px;
+ word-spacing: 2px;
 }
