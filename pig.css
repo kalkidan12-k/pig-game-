@@ -38,5 +38,6 @@ main {
   transition: all 0.75s;
 }
 .name{
-  
+ position: relative; 
+ font-size: 4rem;
 }
